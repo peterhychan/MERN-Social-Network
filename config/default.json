@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin@mern-jobapp-tsejt.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "xqK5w42eQV"
+}
