@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://admin:admin@mern-jobapp-tsejt.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "xqK5w42eQV"
+  "jwtSecret": "xqK5w42eQV",
+  "githubClientId": "3ea65386fba1438b7c47",
+  "githubSecret": "9b3554f4000dfe9728daa390f3246a53093fc381"
 }
